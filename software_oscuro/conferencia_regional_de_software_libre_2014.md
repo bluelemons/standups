@@ -48,7 +48,7 @@ El software oscuro tiene consecuencias visibles.
 Software Oscuro
 ===============
 
-- Carece de un API.
+- Carece de una API.
 
 - Documentación en manuales.
 
