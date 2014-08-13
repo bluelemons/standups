@@ -8,7 +8,7 @@
 1) Desarrolladores de tiempo completo.
 2) No estudiamos informática en medios formales.
 3) Nos preocupa la comunidad del software libre.
-    i.   El desinteres.
+    i.   El desinterés.
     ii.  La falta de compromiso.
     iii. El alejamiento de la informática.
 
@@ -31,7 +31,7 @@ Software claro
 
 - Modular.
 
-- Translucido.
+- Translúcido.
 
 - Independiente.
 
@@ -52,7 +52,7 @@ Software Oscuro
 
 - Documentación en manuales.
 
-- Cantidad de lineas.
+- Cantidad de líneas.
 
 - Necesita internet para funcionar.
 
