@@ -2,41 +2,32 @@
 % Eloy Espinaco (@eloyesp) ; Pablo Oldani (@olvap)
 % 13 de Agosto de 2014
 
-Disclaimer
-==========
+¿Quienes somos?
+==============
 
-- No somos gurues del Software Libre.
-- No nos la sabemos todas.
-- No apuntamos con el dedo a nadie...
+1) Desarrolladores de tiempo completo.
+2) No estudiamos informática en medios formales.
+3) Nos preocupa la comunidad del software libre.
+    i.   El desinteres.
+    ii.  La falta de compromiso.
+    iii. El alejamiento de la informática.
 
-> - A menos que programe en .NET
-
-Quienes somos
-=============
-
-- Desarrolladores de tiempo completo.
-- No estudiamos informática en medios formales.
-- Nos preocupa la comunidad del software libre.
-  - Desinteres.
-  - Falta de compromiso.
-  - Alejamiento de la informática.
-
-> - Altoros is hiring
+Altoros is hiring
+=================
 
 > - hablen con nosotros primero!
 
-
-Qué tan libre es el software libre
+¿Qué tan libre es el software libre?
 ==================================
 
-- Libre no es _tan_ libre!
+- LibreOffice no es _tan_ libre!
 
 Software claro
 ==============
 
 - Que el código se entienda.
 
-- Que sea facil de compilar-instalar.
+- Que sea fácil de compilar-instalar.
 
 - Modular.
 
@@ -47,9 +38,9 @@ Software claro
 Pero
 ====
 
-_estas cualidades son dificil de medir_
+### estas cualidades son difíciles de medir ###
 
-Así que en vez de definir cuando un software es claro,
+En vez de definir cuando un software es claro,
 vimos que es más fácil identificar al software oscuro.
 
 El software oscuro tiene consecuencias visibles.
@@ -66,8 +57,8 @@ Software Oscuro
 - Necesita internet para funcionar.
 
 
-Combinatoria
-============
+Conclusión
+==========
 
 Nuevas posibilidades.
 
