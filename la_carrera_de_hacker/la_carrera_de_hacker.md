@@ -49,21 +49,24 @@ Hacker **no** es una carrera universitaria.
 
 ## Opiniones de Hackers sobre la universidad
 
-> Materias con contenido muy des-actualizado.</br> - Jorge Shirai, programador en
-  Altoros.
+> Materias con contenido muy des-actualizado.
+
+*Jorge Shirai, programador en Altoros*
 
 . . .
 
 > Yo les diría que tengan en cuenta que hoy todo se encuentra en internet y
   que hasta que llega en castellano a un libro el tiempo que se pierde es
-  valiosísimo.</br> - Juan Pablo Taulamet, programador Freelance y docente
-  universitario.
+  valiosísimo.
+
+*Juan Pablo Taulamet, programador Freelance y docente universitario*
 
 . . .
 
 > Materias que jamas use ni usaré que no me aportaron nada, contenidos
-  obsoletos, docentes desactualizados y desmotivados.</br> - Manuel García,
-  director de operaciones en Altoros.
+  obsoletos, docentes desactualizados y desmotivados.
+
+*Manuel García, director de operaciones en Altoros*
 
 ## Muchas gracias
 
