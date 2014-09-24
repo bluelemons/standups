@@ -2,7 +2,7 @@
 % Eloy Espinaco (@eloyesp) ; Pablo Oldani (@olvap)
 % 24 de Septiembre de 2014
 
-## Quienes somos
+## Quiénes somos
 
 - Programadores
 - Nerds
@@ -12,20 +12,22 @@
 
 > "Uno de los peores errores si querés ser escritor, es inscribirte en la carrera de letras."
 
-> - Algunos de ustedes saben que van a estudiar,
-> - otros saben de que quieren trabajar,
-> - y algunos no saben que van a hacer la semana que viene.
+> - Algunos de ustedes saben qué van a estudiar,
+> - otros saben de qué quieren trabajar,
+> - y algunos no saben qué van a hacer la semana que viene.
 
 ## ¿Qué es un hacker?
 
 Un hacker no es un cracker.
 
-> - los hackers crean internet
-> - los hackers disfrutan resolviendo problemas
+> - crean internet
+> - disfrutan resolviendo problemas
+> - defienden la libertad
+> - odian las tareas repetitivas
 
 ## ¿Cómo se hace para ser hacker?
 
-> Hacker no es una carrera universitaria.
+> Hacker **no** es una carrera universitaria.
 
 > - aprendé inglés
 > - aprendé html
@@ -37,7 +39,7 @@ Un hacker no es un cracker.
 ## Bienvenido a la línea de comandos
 
 > - es el ámbito natural del programador
-> - Aprendé lo básico. No usés ides, aunque parezca anticuado.
+> - Aprendé lo básico. No usés IDEs, aunque parezca anticuado.
 
 ## Aprendé a programar
 
