@@ -31,7 +31,7 @@ Un hacker no es un cracker.
 
 > - aprendé inglés
 > - aprendé html
-> - Aprendé a usar linux
+> - aprendé a usar linux
 
 ---
 
