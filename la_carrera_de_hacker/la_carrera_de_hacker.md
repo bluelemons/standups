@@ -33,7 +33,7 @@ Un hacker no es un cracker.
 > - aprendé html
 > - Aprendé a usar linux
 
-## Bienvenido a la línea de comandos
+---
 
 ![Pero somos hackers, y los hackers usan terminales negras con letras verdes! - John Nunemaker](terminal.png)
 
