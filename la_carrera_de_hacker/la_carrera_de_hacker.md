@@ -31,14 +31,12 @@ Un hacker no es un cracker.
 
 > - aprendé inglés
 > - aprendé html
-
-## Aprendé a usar linux
-
-![But we are hackers and hackers have black terminals with green font colors! - John Nunemaker](terminal.png)
+> - Aprendé a usar linux
 
 ## Bienvenido a la línea de comandos
 
-> - es el ámbito natural del programador
+![But we are hackers and hackers have black terminals with green font colors! - John Nunemaker](terminal.png)
+
 > - Aprendé lo básico. No usés IDEs, aunque parezca anticuado.
 
 ## Aprendé a programar
