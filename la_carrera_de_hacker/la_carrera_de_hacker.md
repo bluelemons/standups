@@ -2,16 +2,15 @@
 % Eloy Espinaco (@eloyesp) ; Pablo Oldani (@olvap)
 % 24 de Septiembre de 2014
 
-> "Uno de los peores errores si querés ser escritor, es inscribirte en la carrera de letras."
-
 ## Quienes somos
 
-- Somos programadores
-- nerds
-- fanas del software libre.
-- Trabajamos haciendo software desde hace bastante y también lo hacemos en nuestro tiempo libre.
+- Programadores
+- Nerds
+- Fanas del software libre
 
 ## ¿Qué carrera seguir?
+
+> "Uno de los peores errores si querés ser escritor, es inscribirte en la carrera de letras."
 
 > - Algunos de ustedes saben que van a estudiar,
 > - otros saben de que quieren trabajar,
