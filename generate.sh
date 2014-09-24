@@ -2,8 +2,8 @@
 
 set -e
 
-source="software_oscuro/conferencia_regional_de_software_libre_2014.md"
-target="software_oscuro/conferencia_regional_de_software_libre_2014.html"
+source="la_carrera_de_hacker/la_carrera_de_hacker.md"
+target="la_carrera_de_hacker/la_carrera_de_hacker.html"
 
 pandoc -t slidy \
   -s $source \
