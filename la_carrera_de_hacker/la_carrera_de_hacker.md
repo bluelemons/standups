@@ -34,7 +34,8 @@ Un hacker no es un cracker.
 
 ![But we are hackers and hackers have black terminals with green font colors! - John Nunemaker](terminal.png)
 
-- Bienvenido a la linea de comandos
+## Bienvenido a la linea de comandos
+
 > - es el ámbito natural del programador
 > - Aprendé lo básico. No usés ides, aunque parezca anticuado.
 

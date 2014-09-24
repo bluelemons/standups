@@ -5,8 +5,10 @@ set -e
 source="la_carrera_de_hacker/la_carrera_de_hacker.md"
 target="la_carrera_de_hacker/la_carrera_de_hacker.html"
 
-pandoc -t slidy \
+pandoc --standalone -t slidy \
   -s $source \
-  -o $target
+  -o $target \
+  --include-in-header custom_styles.html
+
 
 firefox $target
