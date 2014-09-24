@@ -18,7 +18,7 @@
 
 ## ¿Qué es un hacker?
 
-Un hacker no es un cracker.
+Un hacker **no** es un cracker.
 
 > - crean internet
 > - disfrutan resolviendo problemas
@@ -27,29 +27,24 @@ Un hacker no es un cracker.
 
 ## ¿Cómo se hace para ser hacker?
 
-> Hacker **no** es una carrera universitaria.
+Hacker **no** es una carrera universitaria.
 
 > - aprendé inglés
 > - aprendé html
 > - Aprendé a usar linux
+
+## ¿Por qué linux?
+
+> - es difícil de usar
+> - tiene fallos
+> - hace pocas cosas
+> - **IMPORTANTE** suscribíte a una lista.
 
 ## Bienvenido a la línea de comandos
 
 ![Pero somos hackers, y los hackers usan terminales negras con letras verdes! - John Nunemaker](terminal.png)
 
 > - Aprendé lo básico. No usés IDEs, aunque parezca anticuado.
-
-## Aprendé a programar
-
-> - Bienvenido al software libre
-> - ¿qué es software libre?
-
-## ¿Cuáles son las ventajas del software libre?
-
-> - es difícil de usar
-> - tiene fallos
-> - hace pocas cosas
-> - **IMPORTANTE** suscribíte a una lista.
 
 ## Opiniones de Hackers sobre la universidad
 
