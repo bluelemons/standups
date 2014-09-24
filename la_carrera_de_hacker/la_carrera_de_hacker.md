@@ -35,7 +35,7 @@ Un hacker no es un cracker.
 
 ## Bienvenido a la línea de comandos
 
-![But we are hackers and hackers have black terminals with green font colors! - John Nunemaker](terminal.png)
+![Pero somos hackers, y los hackers usan terminales negras con letras verdes! - John Nunemaker](terminal.png)
 
 > - Aprendé lo básico. No usés IDEs, aunque parezca anticuado.
 
