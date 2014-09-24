@@ -54,12 +54,17 @@ Un hacker no es un cracker.
 
 ## Opiniones de Hackers sobre la universidad
 
-> - Yo les diría que tengan en cuenta que hoy todo se encuentra en internet y
-    que hasta que llega en castellano a un libro el tiempo que se pierde es  valiosísimo.
-  - Materias con contenido muy des-actualizado.
+> "Materias con contenido muy des-actualizado." Jorge Shirai, programador en
+  Altoros.
 
-> - Trabajos en equipo 'realista' (particularmente trabajar con gente que no me cae bien).
-  - Planteo de desafios con deadline.
+> "Yo les diría que tengan en cuenta que hoy todo se encuentra en internet y
+  que hasta que llega en castellano a un libro el tiempo que se pierde es
+  valiosísimo." Juan Pablo Taulamet, programador Freelance y docente
+  universitario.
+
+> "Materias que jamas use ni usaré que no me aportaron nada, contenidos
+  obsoletos, docentes desactualizados y desmotivados." Manuel García,
+  director de operaciones en Altoros.
 
 ## Muchas gracias
 
