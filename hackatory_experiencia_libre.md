@@ -47,9 +47,9 @@ si no.
 
 "La libertad de redistribuir copias para ayudar a otros"
 
-Bueno, en este punto nos chocamos con el limite entre la instancia del objeto y
-la idea que subyace, no es posible redistribuir copias de un espacio. La idea
-es que cualquiera que tiene acceso a este espacio puede invitar a otros.
+Como no podemos replicar un espacio físico, lo que intentamos es recrear las
+condiciones en las que son posible este espacio. La idea es que cualquiera
+que tiene acceso a este espacio puede invitar a otros.
 
 ## Replicar (Libertad 3)
 
