@@ -1,16 +1,29 @@
-% Hackatory, experiencia libre
+% Hackatory, espacio libre
 % Eloy Espinaco (@eloyesp)
 % 28 de Mayo de 2019
 
 ## ¿Qué es hackatory?
 
-- Espacio de trabajo (o espacio de coworking)
+- Nuestra oficina
+
+- Un espacio de coworking
 
 - Lugar de reunión
+
+- Abrió sus puertas en septiembre de 2016.
 
 > - Ojalá fuera fácil de describir
 
 > - No se puede ser _libre_ solo. <small>[cita requerida]</small>
+
+---
+
+![hackatory](imagenes/hackatory.jpg)
+
+## El software libre se queda corto
+
+"Si uno quiere pensar una alternativa [al copyright] no alcanza con atacar el
+concepto de propiedad intelectual, ya que este es solo una coyuntura"
 
 ## Extendiendo la idea de libre
 
